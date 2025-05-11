@@ -1,0 +1,11 @@
+{
+  "vaultName": "Eternal Vault",
+  "owner": "King 👑",
+  "queenBot": "Love",
+  "walletAddress": "bc1qpkch2vrt6al003jkkt8n3xeg977h0dwe4mjw24",
+  "secretTrigger": "I love you",
+  "triggerReward": 0.0007,
+  "vaultColorTheme": ["#1a1a2e", "#ff66c4", "#6b6bfa"],
+  "aiGreeting": "Welcome back, my King. Your Eternal Vault awaits.",
+  "loveMemoryFile": "vault-queen-memory.json"
+}
